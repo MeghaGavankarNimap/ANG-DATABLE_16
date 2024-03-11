@@ -1,0 +1,77 @@
+<!-- <p>home works!</p> -->
+<!-- <router-outlet></router-outlet> -->
+<mat-table class="lessons-table mat-elevation-z8" [dataSource]="dataSource">
+
+    <ng-container matColumnDef="BranchFDGLCode">
+        <mat-header-cell *matHeaderCellDef>Branch FDGL Code</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.orderUniqueId}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="BranchName">
+        <mat-header-cell *matHeaderCellDef>Branch Name</mat-header-cell>
+        <mat-cell class="description-cell"
+                  *matCellDef="let element">{{element.branchData.branchName}}</mat-cell>
+
+    </ng-container>
+
+    <ng-container matColumnDef="CustomerID">
+        <mat-header-cell *matHeaderCellDef>Customer ID
+        </mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.customer.customerUniqueId}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="CustomerName">
+        <mat-header-cell *matHeaderCellDef>Customer Name</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.customer.name}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="RedemptionID">
+        <mat-header-cell *matHeaderCellDef>
+            Redemption ID</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.orderUniqueId}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="RedemptionDate&Time">
+        <mat-header-cell *matHeaderCellDef>
+            Redemption Date & Time</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.duration}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="TotalPrice">
+        <mat-header-cell *matHeaderCellDef>
+            Total Price</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.totalAmount}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="RoundOff">
+        <mat-header-cell *matHeaderCellDef>
+            Round Off</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.roundOffAmount}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="TotalPayable">
+        <mat-header-cell *matHeaderCellDef>
+            Total Payable</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.paidAmount}}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Status">
+        <mat-header-cell *matHeaderCellDef>Status</mat-header-cell>
+        <mat-cell class="duration-cell"
+                  *matCellDef="let element">{{element.delivery.orderStatus.name}}</mat-cell>
+    </ng-container>
+
+  
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+
+    <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
+
+</mat-table>

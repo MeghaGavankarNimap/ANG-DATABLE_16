@@ -1,0 +1,1181 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "orderUniqueId": "TRANMCD2414837A",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-11-29T07:14:38.316Z",
+            "augmontTransactionId": "OD985817012420781150186162",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 62.5,
+            "paidAmount": 385,
+            "orderStartAt": "2023-11-29T06:50:00.514Z",
+            "totalAmount": 385,
+            "roundOffAmount": 0,
+            "razorpayOrderId": "1i90fpuyvxykqg81paz72gm",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 2569,
+                "customerUniqueId": "MDGD242569",
+                "name": "Siddhesh Mahale"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "muthoot  earings test4",
+                "skuCode": "MUBC1804G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14837,
+                "id": 15417,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414678",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-09-28T05:14:10.156Z",
+            "augmontTransactionId": "OD889416958780499350095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 130.05,
+            "paidAmount": 853,
+            "orderStartAt": "2023-09-28T05:12:59.657Z",
+            "totalAmount": 852.55,
+            "roundOffAmount": 0.45,
+            "razorpayOrderId": "mpbl759ut72jqmwfbgv0q",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "muthoot  earings test4",
+                "skuCode": "MUBC1804G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14678,
+                "id": 15259,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414675",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-09-28T04:14:44.544Z",
+            "augmontTransactionId": "OD404116958744843550095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 130.05,
+            "paidAmount": 853,
+            "orderStartAt": "2023-09-28T04:14:24.079Z",
+            "totalAmount": 852.55,
+            "roundOffAmount": 0.45,
+            "razorpayOrderId": "xol3ejlp2e1ki0orrduam",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "muthoot  earings test4",
+                "skuCode": "MUBC1804G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14675,
+                "id": 15256,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414673",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-09-28T03:46:44.659Z",
+            "augmontTransactionId": "OD572416958728044750095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 130.05,
+            "paidAmount": 853,
+            "orderStartAt": "2023-09-28T03:46:27.690Z",
+            "totalAmount": 852.55,
+            "roundOffAmount": 0.45,
+            "razorpayOrderId": "c82nk5n3geeq7zs1dla42",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "muthoot  earings test4",
+                "skuCode": "MUBC1804G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14673,
+                "id": 15254,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414645",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-09-26T12:03:39.439Z",
+            "augmontTransactionId": "OD643716957298192450168792",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 59,
+            "paidAmount": 364,
+            "orderStartAt": "2023-09-26T12:03:20.221Z",
+            "totalAmount": 364,
+            "roundOffAmount": 0,
+            "razorpayOrderId": "1fsbxgycfw9bekzlgkfyzo",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1805,
+                "customerUniqueId": "MDGD241805",
+                "name": "JOHN DOE"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Muthoot Earring5",
+                "skuCode": "MUBGSS08G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14645,
+                "id": 15226,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414564",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-09-14T12:09:46.391Z",
+            "augmontTransactionId": "OD983116946933862250154164",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 31.32,
+            "paidAmount": 205,
+            "orderStartAt": "2023-09-14T12:09:33.010Z",
+            "totalAmount": 205.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": "20sv7gvl5tg0rlkzq37uhh",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1465,
+                "customerUniqueId": "MDGD231465",
+                "name": "Suraj Shukla"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14564,
+                "id": 15151,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414146",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-08-07T13:08:03.576Z",
+            "augmontTransactionId": "OD203116914136833650095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 31.32,
+            "paidAmount": 205,
+            "orderStartAt": "2023-08-07T13:07:48.952Z",
+            "totalAmount": 205.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": "fk8dk2kzskp1eib1cyi8lf",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14146,
+                "id": 14741,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414144",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-08-07T13:06:03.411Z",
+            "augmontTransactionId": "OD857716914135631750095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 31.32,
+            "paidAmount": 205,
+            "orderStartAt": "2023-08-07T13:05:43.347Z",
+            "totalAmount": 205.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": "2a9sia6vngx1uu4n2jdsxy",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14144,
+                "id": 14739,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414006",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-07-21T08:13:08.349Z",
+            "augmontTransactionId": "OD149216899271882150095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 103.32,
+            "paidAmount": 677,
+            "orderStartAt": "2023-07-21T08:12:59.897Z",
+            "totalAmount": 677.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 451,
+                "FDGL": "F022",
+                "branchName": "AMBATTUR"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MP10011416hgHsdjjsdj"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14006,
+                "id": 14603,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2414000",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-07-21T08:07:07.855Z",
+            "augmontTransactionId": "OD905816899268276750095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 103.32,
+            "paidAmount": 677,
+            "orderStartAt": "2023-07-21T08:06:48.699Z",
+            "totalAmount": 677.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": "2loj7xposn9787tsc143hm",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 14000,
+                "id": 14597,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2413974",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-07-20T09:10:38.489Z",
+            "augmontTransactionId": "OD452116898442383350095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 31.32,
+            "paidAmount": 205,
+            "orderStartAt": "2023-07-20T09:10:21.113Z",
+            "totalAmount": 205.32,
+            "roundOffAmount": -0.32,
+            "razorpayOrderId": "1d8rmvqyy93g23f5bsjz67n",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13974,
+                "id": 14571,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2413832",
+            "marginGoldRate": 0,
+            "weight": "0.8000",
+            "createdAt": "2023-06-29T08:57:31.394Z",
+            "augmontTransactionId": "OD242916880290511750171814",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 32.8,
+            "paidAmount": 207,
+            "orderStartAt": "2023-06-29T08:57:02.033Z",
+            "totalAmount": 206.8,
+            "roundOffAmount": 0.2,
+            "razorpayOrderId": "mfn13sob711q6cvgqdt13k",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 2206,
+                "customerUniqueId": "MDGD242206",
+                "name": "megha"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Exim Coin14",
+                "skuCode": "MULC2409G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13832,
+                "id": 14459,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2413735B",
+            "marginGoldRate": 0,
+            "weight": "0.5500",
+            "createdAt": "2023-06-01T13:10:00.055Z",
+            "augmontTransactionId": "OD706016856249999050095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 75.78,
+            "paidAmount": 497,
+            "orderStartAt": "2023-06-01T13:06:22.145Z",
+            "totalAmount": 496.78,
+            "roundOffAmount": 0.22,
+            "razorpayOrderId": "169qkwkf7vv1zprr4phs9s",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Dual Heart Ring",
+                "skuCode": "MUTDUSS03G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13736,
+                "id": 14378,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313334",
+            "marginGoldRate": 0,
+            "weight": "10.4000",
+            "createdAt": "2023-03-28T11:54:59.698Z",
+            "augmontTransactionId": "OD687716800044995650095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 208.8,
+            "paidAmount": 1369,
+            "orderStartAt": "2023-03-28T11:54:44.076Z",
+            "totalAmount": 1368.8,
+            "roundOffAmount": 0.2,
+            "razorpayOrderId": "2on3a1sy49u2224ngymo2u",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Coins",
+                "skuCode": "MUCCSB01G",
+                "productType": {
+                    "productTypeName": "coins"
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13334,
+                "id": 14126,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313326",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-27T07:00:32.061Z",
+            "augmontTransactionId": "OD582216799004319350095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-27T06:59:23.025Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13326,
+                "id": 14118,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313324",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-27T06:53:05.716Z",
+            "augmontTransactionId": "OD725216798999855850095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-27T06:52:40.534Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13324,
+                "id": 14116,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313315",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-27T05:08:19.776Z",
+            "augmontTransactionId": "OD716416798936996350095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-27T05:08:00.522Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13315,
+                "id": 14107,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313287",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-21T05:46:39.108Z",
+            "augmontTransactionId": "OD178616793775989850162767",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-21T05:46:03.241Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1681,
+                "customerUniqueId": "MDGD231681",
+                "name": "sa"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13287,
+                "id": 14079,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313277C",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-17T12:37:06.384Z",
+            "augmontTransactionId": "OD796716790566262550095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-17T12:36:32.393Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13279,
+                "id": 14071,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313277A",
+            "marginGoldRate": 0,
+            "weight": "1.8400",
+            "createdAt": "2023-03-17T12:37:04.867Z",
+            "augmontTransactionId": "OD523416790566247350095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 171,
+            "paidAmount": 1121,
+            "orderStartAt": "2023-03-17T12:36:32.393Z",
+            "totalAmount": 1121,
+            "roundOffAmount": 0,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Double Band Ring",
+                "skuCode": "MUDBRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13277,
+                "id": 14069,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313276",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-17T12:35:30.911Z",
+            "augmontTransactionId": "OD873516790565300550095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-17T12:35:11.634Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13276,
+                "id": 14068,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313275",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-17T07:30:46.476Z",
+            "augmontTransactionId": "OD506316790382463350162550",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-17T07:30:27.174Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1666,
+                "customerUniqueId": "MDGD231666",
+                "name": "amit a"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13275,
+                "id": 14067,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313272C",
+            "marginGoldRate": 0,
+            "weight": "1.7500",
+            "createdAt": "2023-03-17T07:29:07.087Z",
+            "augmontTransactionId": "OD407616790381469750162550",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 163.89,
+            "paidAmount": 1074,
+            "orderStartAt": "2023-03-17T07:28:20.268Z",
+            "totalAmount": 1074.39,
+            "roundOffAmount": -0.39,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1666,
+                "customerUniqueId": "MDGD231666",
+                "name": "amit a"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Fashion Ring",
+                "skuCode": "MUFHRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13274,
+                "id": 14066,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313272A",
+            "marginGoldRate": 0,
+            "weight": "1.8400",
+            "createdAt": "2023-03-17T07:29:05.644Z",
+            "augmontTransactionId": "OD776916790381454950162550",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 171,
+            "paidAmount": 1121,
+            "orderStartAt": "2023-03-17T07:28:20.268Z",
+            "totalAmount": 1121,
+            "roundOffAmount": 0,
+            "razorpayOrderId": null,
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 1666,
+                "customerUniqueId": "MDGD231666",
+                "name": "amit a"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "Double Band Ring",
+                "skuCode": "MUDBRS02G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13272,
+                "id": 14064,
+                "isReconciled": true
+            }
+        },
+        {
+            "orderUniqueId": "TRANMCD2313224B",
+            "marginGoldRate": 0,
+            "weight": "0.4600",
+            "createdAt": "2023-03-10T10:40:05.680Z",
+            "augmontTransactionId": "OD620716784448055650095686",
+            "invoiceNo": null,
+            "invoiceDate": null,
+            "goldRate": 0,
+            "taxAmount": 58.05,
+            "paidAmount": 381,
+            "orderStartAt": "2023-03-10T10:01:23.802Z",
+            "totalAmount": 380.55,
+            "roundOffAmount": 0.45,
+            "razorpayOrderId": "order_LPmUrAVAKkl2Ou",
+            "branchData": {
+                "id": 3447,
+                "FDGL": "online",
+                "branchName": "customer-website"
+            },
+            "customer": {
+                "id": 790,
+                "customerUniqueId": "MDGD22790",
+                "name": "Rohit"
+            },
+            "employeeData": {
+                "userUniqueId": "MDG20101"
+            },
+            "product": {
+                "name": "muthoot  earings test4",
+                "skuCode": "MUBC1804G",
+                "productType": {
+                    "productTypeName": "jewellery "
+                }
+            },
+            "delivery": {
+                "orderStatusId": 4,
+                "orderStatus": {
+                    "name": "Order Pending"
+                }
+            },
+            "orderDetailInternal": {
+                "orderDetailId": 13225,
+                "id": 14017,
+                "isReconciled": true
+            }
+        }
+    ],
+    "count": 26
+}
